@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dif88
 - 👀 I’m interested in  coding games , apps and website.
-- - 🌱 I’m currently learning  java.
+- - 🌱 I’m currently learning various cybersecurity tools.
 - 💞️ I’m looking to collaborate on  cool projects.
 - 📫 How to reach me  fofanaidrissa40@yahoo.com
 <!---
